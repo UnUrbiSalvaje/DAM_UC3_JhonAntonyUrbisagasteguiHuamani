@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DAM_UC3_JhonUrbisagasteguiHuamani</string>
+    <string name="textViewResgitrate">REGISTRATE</string>
+    <string name="textViewRegistrar">Regístrate</string>
+    <string name="textViewGratis">Es gratis (y lo seguirá siendo).</string>
+    <string name="textViewCorreo">Correo electrónico</string>
+    <string name="txtCorreo" />
+    <string name="textViewContra">Contraseña</string>
+    <string name="textViewNosesion">No cerrar sesión</string>
+    <string name="textViewolvidado">¿Has olvidado tu contraseña?</string>
+    <string name="btnEntrar">Entrar</string>
+    <string name="textviewNombre">Nombre</string>
+    <string name="textviewapellido">Apellidos</string>
+    <string name="textViewNewCorreo">Tu dirección de correo electrónico:</string>
+    <string name="textviewApellido">Apellidos:</string>
+    <string name="textviewNom">Nombre:</string>
+    <string name="textViewContraseñaNew">Contraseña nueva:</string>
+    <string name="textViewSexo">Sexo:</string>
+    <string name="textViewFechaNac">Fecha de nacimiento:</string>
+    <string name="editTextCorreo" />
+    <string name="editTextEmail" />
+    <string name="radioButtonHombre">Hombre</string>
+    <string name="radioButtonMujer">Mujer</string>
+    <string name="textViewInfo">¿Por qué tengo dar esta información?</string>
+    <string name="btnRegistrarte">Registrarte</string>
+    <string name="btnRegistrate">Registrate</string>
+    <string name="textViewCrea" />
+    <string name="textViewCreaa">Crear una página</string>
+    <string name="textViewFamoso">para un famoso, grupo de música o empresa</string>
+    <string name="textViewMSG">Texto 02</string>
+</resources>
